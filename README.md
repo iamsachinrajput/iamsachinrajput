@@ -21,6 +21,20 @@ src="https://img.shields.io/github/followers/iamsachinrajput?logo=github&style=f
 - **Opeshift , Kubernetes and Podman**
 - **VMware , Networking and Firewall concepts**
 
+## Certifications
+
+- **AWS Professional cloud architech**
+- **GCP Professional cloud architech**
+- **Ansible Certification**
+
+## Type of works handled 
+- ***Operations :*** Managed multiple clients for BAU operaitons as a second line manager of around 20 resources.
+- ***Transitions :*** Being part of the MSI team worked for many new clients for taking transition from other old vendors and streamlining the operations till handover to BAU teams.
+- ***Transformation :*** For New/Existing customers worked for the Transformation projects like Asset refresh , DC movements ( onprem to onprem) , moving from onprem to Cloud , New Environment builds etc. 
+- ***Automation :*** Automating as per need of customer means not only by using the available devops/automation tools but also by developing customised solutions for customers based on their specific needs.
+- ***Development :*** I work for automation using diffirent languages : Bash , python , php etc
+- ***Orchestration :*** I worked on orchestrator like Cloudify to automate the infra as code by developing the blueprints which can cater the infra integrations with multiple components for example for new servers provisioning.
+
 ## Companies worked : 
 Started my Career in 2005 with HCL.
  - ***Kritikal :*** I worked for 1 Year for managing IT infra and development of internal tools using opensource tools.
@@ -34,26 +48,12 @@ Started my Career in 2005 with HCL.
   - ***USA :*** Atlanta , Ashville , Raleigh , Chicago
   - ***And   :*** Singapore , United Kingdom
 
-## Type of works handled 
-- ***Operations :*** Managed multiple clients for BAU operaitons as a second line manager of around 20 resources.
-- ***Transitions :*** Being part of the MSI team worked for many new clients for taking transition from other old vendors and streamlining the operations till handover to BAU teams.
-- ***Transformation :*** For New/Existing customers worked for the Transformation projects like Asset refresh , DC movements ( onprem to onprem) , moving from onprem to Cloud , New Environment builds etc. 
-- ***Automation :*** Automating as per need of customer means not only by using the available devops/automation tools but also by developing customised solutions for customers based on their specific needs.
-- ***Development :*** I work for automation using diffirent languages : Bash , python , php etc
-- ***Orchestration :*** I worked on orchestrator like Cloudify to automate the infra as code by developing the blueprints which can cater the infra integrations with multiple components for example for new servers provisioning.
-
 ## Education
 
 - **3 Years Full time IT Diploma from Govt Polytechnic:** 
 - **Btech in Computer science from IETE:** 
 - **MBA in IT from SMU:** 
 
-## Certifications
-
-- **AWS Professional cloud architech**
-- **GCP Professional cloud architech**
-- **Ansible Certification**
- 
 
 <p align="center">
   <img width="44%" src="https://github-readme-stats.vercel.app/api?username=iamsachinrajput&theme=react&cache_seconds=30&hide_border=truek"/>&nbsp;&nbsp;&nbsp;
