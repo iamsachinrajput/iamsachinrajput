@@ -6,6 +6,20 @@ src="https://img.shields.io/github/followers/iamsachinrajput?logo=github&style=f
 <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=30&center=true&vCenter=true&width=600%&lines=DevOps+Automation+Architect;HPUX+And+Linux+Expert;17+Years+experience;Blueprints+Developement;of+Infra+As+Code;AWS+GCP+Cloud+Certified;Ansible+Epxpert;Expertise+in+Customised+Automation" />
 
 
+## Skills ( Expertised areas ) 
+- **Automation with Bash Scripting , PHP , Python ( Flask and Django ) , Java Script with database handling ( mongo , mysql )**
+- **Autoation with Ansible playbooks and Roles with fully automated CICD pipelines using Git**
+- **Development of Infra as Code using Cloudify Orchestrator Blueprints**
+- **Automated povisioning / patching  / opertaions management using customized automation**
+- **Use of tools like Git , jenkins , SNow , JIRA , confluence for optimal efficiency.**
+- **knowledge of HPUX and Linux working since 2005.**
+  
+
+## Skills ( Good Knowledge of ) 
+- **Public Cloud as Infra using GCP and AwS compute and storage services**
+- **Private cloud using Openstack**
+- **Opeshift , Kubernetes and Podman**
+- **VMware , Networking and Firewall concepts**
 
 ## Companies worked : 
 Started my Career in 2005 with HCL.
@@ -38,24 +52,8 @@ Started my Career in 2005 with HCL.
 
 - **AWS Professional cloud architech**
 - **GCP Professional cloud architech**
-- **Ansible Professional cloud architech**
-
-## Skills ( Expertised areas ) 
-- **Automation with Bash Scripting , PHP , Python ( Flask and Django ) , Java Script with database handling ( mongo , mysql )**
-- **Autoation with Ansible playbooks and Roles with fully automated CICD pipelines using Git**
-- **Development of Infra as Code using Cloudify Orchestrator Blueprints**
-- **Automated povisioning / patching  / opertaions management using customized automation**
-- **Use of tools like Git , jenkins , SNow , JIRA , confluence for optimal efficiency.**
-- **knowledge of HPUX and Linux working since 2005.**
-  
-
-## Skills ( Good Knowledge of ) 
-- **Public Cloud as Infra using GCP and AwS compute and storage services**
-- **Private cloud using Openstack**
-- **Opeshift , Kubernetes and Podman**
-- **VMware , Networking and Firewall concepts**
-
-  
+- **Ansible Certification**
+ 
 
 <p align="center">
   <img width="44%" src="https://github-readme-stats.vercel.app/api?username=iamsachinrajput&theme=react&cache_seconds=30&hide_border=truek"/>&nbsp;&nbsp;&nbsp;
