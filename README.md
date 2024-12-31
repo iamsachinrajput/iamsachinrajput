@@ -3,7 +3,7 @@ src="https://img.shields.io/github/followers/iamsachinrajput?logo=github&style=f
 
 # Hi👋🏻 I'm <a href="https://iamsachinrajput.github.io/">Sachin Rajput </a>
 
-<img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=30&center=true&vCenter=true&width=600%&lines=DevOps+Automation+Architect;HPUX+And+Linux+Expert;17+Years+experience;Blueprints+Developement;of+Infra+As+Code;AWS+GCP+Cloud+Certified;Ansible+Epxpert;Expertise+in+Customised+Automation" />
+<img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=30&center=true&vCenter=true&width=600%&lines=DevOps+Automation+Architect;HPUX+And+Linux+Expert;20+Years+experience;Blueprints+Developement;of+Infra+As+Code;AWS+GCP+Cloud+Certified;Ansible+Epxpert;Expertise+in+Customised+Automation" />
 
 
 ## Skills ( Expertised areas ) 
