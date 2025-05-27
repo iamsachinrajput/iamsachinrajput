@@ -8,8 +8,9 @@ src="https://img.shields.io/github/followers/iamsachinrajput?logo=github&style=f
 
 ## Skills ( Expertised areas ) 
 - **Automation with Bash Scripting , PHP , Python ( Flask and Django ) , Java Script with database handling ( mongo , mysql )**
-- **Autoation with Ansible playbooks and Roles with fully automated CICD pipelines using Git**
-- **Development of Infra as Code using Cloudify Orchestrator Blueprints**
+- **Autoation with Ansible playbooks and Roles**
+- **Setup of fully automated CICD pipelines using GitLab and Jenkins**
+- **Development of Infra as Code using Cloudify Orchestrator Blueprints and Terrafarm**
 - **Automated povisioning / patching  / opertaions management using customized automation**
 - **Use of tools like Git , jenkins , SNow , JIRA , confluence for optimal efficiency.**
 - **knowledge of HPUX and Linux working since 2005.**
