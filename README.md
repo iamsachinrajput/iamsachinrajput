@@ -1,6 +1,18 @@
+            
 <img src="https://komarev.com/ghpvc/?username=iamsachinrajput&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="iamsachinrajput" /><a href="https://www.github.com/iamsachinrajput" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/iamsachinrajput?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+
+<img width="123" height="133" alt="image" src="https://github.com/user-attachments/assets/e7f9f07e-e938-4529-9540-5030f597a6e8" />
+<img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/f162ff82-2d7d-4397-ad83-64777a4ccf86" />
+<img width="144" height="127" alt="image" src="https://github.com/user-attachments/assets/b9efca4c-0aa1-43c9-a16f-e16c076867ce" />
+<img width="116" height="118" alt="image" src="https://github.com/user-attachments/assets/628b9e01-183d-4314-b26a-a2781d5fdbf9" />
+<img width="127" height="126" alt="image" src="https://github.com/user-attachments/assets/27c6c0e1-46c6-4760-9423-ec3c5d8ac326" />
+<img width="113" height="127" alt="image" src="https://github.com/user-attachments/assets/d4f16f8b-dc8a-4161-8177-e72fe211b92c" />
+<img width="82" height="128" alt="image" src="https://github.com/user-attachments/assets/05e59966-1d52-4156-9f7a-27c095026b06" />
+
+
+   
 # Hi👋🏻 I'm <a href="https://www.linkedin.com/in/iamsachinrajput/">Sachin Rajput </a> 
 <p>iamsachinrajput@gmail.com<br>
 DevOps Automation Architect; HPUX And Linux Expert; 20+ Years experience; IaC Blueprints Developement; AWS & GCP Cloud Certified; Ansible Epxpert; Expertise in Customised Automation</p>
