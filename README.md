@@ -15,6 +15,8 @@ src="https://img.shields.io/github/followers/iamsachinrajput?logo=github&style=f
    
 # Hi👋🏻 I'm <a href="https://www.linkedin.com/in/iamsachinrajput/">Sachin Rajput </a> 
 <p>iamsachinrajput@gmail.com<br>
+<a href="https://github.com/iamsachinrajput/iamsachinrajput/blob/main/Sachin%20Resume%20Jan26.pdf">Resume PDF</a>
+
 DevOps Automation Architect; HPUX And Linux Expert; 20+ Years experience; IaC Blueprints Developement; AWS & GCP Cloud Certified; Ansible Epxpert; Expertise in Customised Automation</p>
 
 
